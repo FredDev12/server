@@ -1,2 +1,2 @@
-pip install flask
-pip install flask-socketio
+flask
+flask-socketio
